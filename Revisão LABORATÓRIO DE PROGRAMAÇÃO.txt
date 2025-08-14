@@ -1,0 +1,66 @@
+Revisão LABORATÓRIO DE PROGRAMAÇÃO 2
+
+1- O significa "Not-a-Number", situação que acontece quando, por exemplo, em uma divisão por 0: 0/0
+
+2- CSS inlane:
+    <p style="color: blue; text-align: center;">CSSSSSSSSSSSSSS .</p>
+CSS Embutido:
+    <head>
+      <style>
+        p {
+          color: green;
+        }
+        h1 {
+          text-align: center;
+        }
+      </style>
+    </head>
+    <body>
+      <h1>TTTTTTTTTTTT</h1>
+      <p>Csssssssss.</p>
+    </body>
+CSS externo:
+    <head>
+      <link rel="stylesheet" type="text/css" href="estilos.css">
+    </head>
+    <body>
+      <h1>Título centralizado com fonte maior</h1>
+      <p>Este texto está formatado com CSS externo.</p>
+    </body>
+
+3-O <div> é para grandes blocos, enquanto o <span> é para pequenos trechos de conteúdo inline. Ambos são fundamentais para a estrutura e estilização de páginas web. 
+div:
+    <div class="header">
+      <h1>Meu Site</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Início</a></li>
+          <li><a href="#">Sobre</a></li>
+          <li><a href="#">Contato</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="content">
+      <p>Este é o conteúdo principal do site.</p>
+      <img src="imagem.jpg" alt="Uma imagem">
+    </div>
+span:
+    <p>Este é um parágrafo com uma <span style="color: blue;">palavra em azul</span> e outra <span style="font-weight: bold;">em negrito</span>.</p>
+
+4- A tag <head> em um documento HTML define a seção de metadados do documento, ou seja, informações sobre o próprio HTML, que não são exibidas diretamente na página web, ela pode conter links, tittle and style
+
+5-A principal diferença entre as tags HTML <ul> e <ol> reside no tipo de lista que elas representam. <ul> (unordered list) é usada para criar listas não ordenadas, onde a ordem dos itens não é importante, e por padrão, os itens são exibidos com marcadores. <ol> (ordered list) é usada para listas ordenadas, onde a ordem dos itens é relevante, e por padrão, os itens são exibidos com números. 
+ul:
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+ol:
+<ol>
+  <li>Passo 1</li>
+  <li>Passo 2</li>
+  <li>Passo 3</li>
+</ol>
+5-
+
